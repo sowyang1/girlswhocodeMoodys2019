@@ -1,0 +1,11 @@
+body{
+  background-color: "turquoise";
+  background-image: url("rainforest.png");
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+h1{
+  font-family: sans-serif;
+  text-align: center;
+
+}
